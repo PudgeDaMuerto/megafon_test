@@ -1,0 +1,5 @@
+CREATE TABLE data_table (
+    id INT PRIMARY KEY,
+    data VARCHAR(255) NOT NULL,
+    date TIMESTAMP NOT NULL
+)
